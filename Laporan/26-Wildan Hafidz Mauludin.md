@@ -4,7 +4,7 @@
 #### **NIM       : 2141720007** 
 #### **No.Absen  : 26** 
 
-<img src="Images/1.PNG"
+<img src="Images/1.PNG">
 
 <img src="Images/2.PNG">
 
@@ -22,4 +22,4 @@
 
 <img src="Images/9.PNG">
 
-<img src="Images/10.PNG"> 
+<img src="Images/10.PNG">
